@@ -6,6 +6,15 @@
 
 </div>
 
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthkshirsagar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthyk007@gmail.com)
+
+</div>
+
 ## 🚀 About Me
 
 ```javascript
@@ -79,15 +88,6 @@ Started my coding journey in **September 2020** (Grade 8) during the lockdown. W
 - 💡 Challenging projects to expand my skill set
 - 👥 Collaboration with experienced developers
 - 🌱 Opportunities to learn and grow in the tech community
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthkshirsagar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthyk007@gmail.com)
-
-</div>
 
 ## 💭 Developer Quote
 
